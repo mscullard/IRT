@@ -1,0 +1,7 @@
+c:\Users\Mike\documents\visual studio 2013\Projects\IRT\IRT.UnitTests\bin\Debug\IRT.UnitTests.dll
+c:\Users\Mike\documents\visual studio 2013\Projects\IRT\IRT.UnitTests\bin\Debug\IRT.UnitTests.pdb
+c:\Users\Mike\documents\visual studio 2013\Projects\IRT\IRT.UnitTests\bin\Debug\IRT.dll
+c:\Users\Mike\documents\visual studio 2013\Projects\IRT\IRT.UnitTests\bin\Debug\IRT.pdb
+c:\Users\Mike\documents\visual studio 2013\Projects\IRT\IRT.UnitTests\obj\Debug\IRT.UnitTests.csprojResolveAssemblyReference.cache
+c:\Users\Mike\documents\visual studio 2013\Projects\IRT\IRT.UnitTests\obj\Debug\IRT.UnitTests.dll
+c:\Users\Mike\documents\visual studio 2013\Projects\IRT\IRT.UnitTests\obj\Debug\IRT.UnitTests.pdb
